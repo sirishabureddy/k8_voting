@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6af3a66a-4adc-4ae6-84b0-120dbf473d8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kubernetesproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result-app-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result-app-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voting-app-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voting-app-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker-app-pod.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uoVG2nqYAjWjEKAr89pu8AnshS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af3a66a-4adc-4ae6-84b0-120dbf473d8c" name="Default Changelist" comment="" />
+      <created>1625331829254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625331829254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1625408356685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1625408356685" />
+  </component>
+</project>
