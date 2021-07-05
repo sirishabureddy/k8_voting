@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af3a66a-4adc-4ae6-84b0-120dbf473d8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kubernetesproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgres-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgres-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-app-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-app-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voting-app-pod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voting-app-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker-app-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres-deployment-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-deployment-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result-app-deployment-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result-app-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voting-app-deployment-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voting-app-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voting-app-deploymet.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker-app-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1625408356685">
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1625502759116">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1625408356685" />
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1625502759116" />
   </component>
 </project>
